@@ -15,3 +15,7 @@ export function MailIcon(props: SVGProps<SVGSVGElement>) {
 export function LocationIcon(props: SVGProps<SVGSVGElement>) {
   return <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true" focusable="false" {...props}><path d="M19 10c0 6-7 11-7 11S5 16 5 10a7 7 0 1 1 14 0Z" /><circle cx="12" cy="10" r="2" /></svg>;
 }
+
+export function TelegramIcon(props: SVGProps<SVGSVGElement>) {
+  return <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round" aria-hidden="true" focusable="false" {...props}><path d="m21 3-4 18-6-5-4 3 1-7L21 3ZM8 12l-5-2 18-7M11 16l10-13" /></svg>;
+}

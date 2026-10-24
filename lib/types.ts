@@ -20,6 +20,7 @@ export interface Profile {
   name: string;
   firstName: string;
   email: string;
+  telegram: string;
   location: Record<Locale, string>;
   yearsExperience: string;
   totalProjects: number;
