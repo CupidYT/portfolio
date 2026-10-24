@@ -124,7 +124,11 @@
     "stack": "wordpress",
     "featured": false,
     "partial": false,
-    "image": null,
+    "image": {
+      "src": "/projects/08.jpg",
+      "width": 1280,
+      "height": 720
+    },
     "description": {}
   },
   {

@@ -27,7 +27,7 @@ Scripturile folosesc Webpack, compatibil cu mediul local în care a fost verific
 - `content/profile.json`: nume, email, localitate, experiență și ordinea proiectelor principale în `featuredIds`.
 - `content/ro.json`, `content/en.json`, `content/ru.json`: textele interfeței.
 - `content/projects.json`: cele 70 de proiecte furnizate, linkuri, descrieri în trei limbi și capturi.
-- `public/projects/`: cele 61 de capturi reale disponibile.
+- `public/projects/`: cele 62 de capturi reale disponibile.
 - `public/cv/`: CV-urile PDF pentru descărcare.
 - `app/globals.css`: designul de sticlă și adaptarea la ecrane mici.
 - `components/`: interfața, cardurile proiectelor și dialogul cu contribuția personală.
@@ -40,7 +40,7 @@ Castel Mimi este etichetat ca o contribuție parțială. Yum Yum prezintă doar 
 
 CV-urile sunt o primă versiune bazată pe informațiile confirmate. Nu au fost inventate perioade calendaristice, nume de angajatori, studii sau niveluri de limbi străine. Aceste date pot fi completate la o revizie ulterioară.
 
-Nouă proiecte au previzualizare indisponibilă: Verser Fruits, Adalin, Blysso Webinar, Secret Point, Casa Gospodarului, Neo Beauty, Softy Shop, CXECO și OneStone. Cardurile păstrează linkul și un mesaj explicit. Pentru OneStone este necesară o captură a proiectului original, deoarece site-ul public era în mentenanță la verificare.
+Opt proiecte au previzualizare indisponibilă: Adalin, Blysso Webinar, Secret Point, Casa Gospodarului, Neo Beauty, Softy Shop, CXECO și OneStone. Cardurile păstrează linkul și un mesaj explicit. Pentru OneStone este necesară o captură a proiectului original, deoarece site-ul public era în mentenanță la verificare.
 
 ## Publicare
 
@@ -67,4 +67,4 @@ npm run typecheck
 npm run build
 ```
 
-Verificate: cele trei rute de limbă și atributul `lang`, 12 proiecte principale, filtrarea, dialogul și închiderea cu Escape, hover-ul, încărcarea celor 61 de imagini, optimizarea WebP, contactul și servirea celor trei PDF-uri. Verificare vizuală pe desktop și la lățimi de telefon de 320 și 390 px.
+Verificate: cele trei rute de limbă și atributul `lang`, 12 proiecte principale, filtrarea, dialogul și închiderea cu Escape, hover-ul, încărcarea celor 62 de imagini, optimizarea WebP, contactul și servirea celor trei PDF-uri. Verificare vizuală pe desktop și la lățimi de telefon de 320 și 390 px.
