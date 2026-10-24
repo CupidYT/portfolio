@@ -1,0 +1,26 @@
+{
+  "name": "Cristian Sîrbu",
+  "firstName": "Cristian",
+  "email": "cristinelsirbu@gmail.com",
+  "location": {
+    "ro": "Chișinău, Moldova",
+    "en": "Chișinău, Moldova",
+    "ru": "Кишинёв, Молдова"
+  },
+  "yearsExperience": "~4",
+  "totalProjects": 108,
+  "featuredIds": [
+    0,
+    1,
+    2,
+    8,
+    14,
+    21,
+    37,
+    59,
+    9,
+    10,
+    66,
+    63
+  ]
+}

@@ -1,0 +1,1064 @@
+[
+  {
+    "id": 0,
+    "name": "Yum Yum Sushi",
+    "url": "https://yum-yum.md/",
+    "domain": "yum-yum.md",
+    "stack": "next",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/01.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Frontend Next.js pentru livrare sushi: meniu, produse și interfață de comandă. Backend realizat de alt dezvoltator.",
+      "en": "Next.js frontend for sushi delivery: menu, products and ordering interface. Backend by another developer.",
+      "ru": "Frontend на Next.js для доставки суши: меню, товары и интерфейс заказа. Backend выполнил другой разработчик."
+    }
+  },
+  {
+    "id": 1,
+    "name": "Samurai Sushi",
+    "url": "https://samurai.md/",
+    "domain": "samurai.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/02.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website pentru livrare sushi, cu meniu, categorii și catalog de produse. Dezvoltare după design furnizat.",
+      "en": "Sushi delivery website with a menu, categories and a product catalogue, built from a supplied design.",
+      "ru": "Сайт доставки суши с меню, категориями и каталогом товаров. Разработка по готовому дизайну."
+    }
+  },
+  {
+    "id": 2,
+    "name": "BOSAQ Moldova",
+    "url": "https://bosaq.md/",
+    "domain": "bosaq.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/03.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website corporate pentru soluții de tratare și gestionare a apei, proiecte și locații.",
+      "en": "Corporate website for water treatment and management solutions, projects and locations.",
+      "ru": "Корпоративный сайт решений для очистки и управления водными ресурсами, проектов и локаций."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Rodonit",
+    "url": "https://rodonit.md/",
+    "domain": "rodonit.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/04.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 4,
+    "name": "Sapico",
+    "url": "https://sapico.md/",
+    "domain": "sapico.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/05.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 5,
+    "name": "Casa Bună",
+    "url": "https://casabuna.md/ro/",
+    "domain": "casabuna.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/06.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 6,
+    "name": "George Standard",
+    "url": "https://gstandard.md/",
+    "domain": "gstandard.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/07.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 7,
+    "name": "Verser Fruits",
+    "url": "https://verser.md/",
+    "domain": "verser.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 8,
+    "name": "AlcoDrink",
+    "url": "https://alcodrink.md/",
+    "domain": "alcodrink.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/09.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Magazin online cu categorii de produse, promoții și conținut în mai multe limbi.",
+      "en": "Online store with product categories, promotions and multilingual content.",
+      "ru": "Интернет-магазин с категориями товаров, акциями и контентом на нескольких языках."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mi Piace",
+    "url": "https://mipiace.wine/",
+    "domain": "mipiace.wine",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/10.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website de brand pentru Mi Piace, cu prezentarea produselor și conținut în mai multe limbi.",
+      "en": "Mi Piace brand website with product presentations and multilingual content.",
+      "ru": "Брендовый сайт Mi Piace с презентацией продуктов и контентом на нескольких языках."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Stella Rosa",
+    "url": "https://stellarosa.md/",
+    "domain": "stellarosa.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/11.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website de prezentare pentru Stella Rosa, cu pagini despre vinuri, producție și asociere gastronomică.",
+      "en": "Stella Rosa website with pages for wines, production and food pairing.",
+      "ru": "Сайт Stella Rosa со страницами о винах, производстве и гастрономических сочетаниях."
+    }
+  },
+  {
+    "id": 11,
+    "name": "ANCO",
+    "url": "https://anco.md/",
+    "domain": "anco.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/12.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 12,
+    "name": "Chesakl Group",
+    "url": "https://chesaklgroup.com/",
+    "domain": "chesaklgroup.com",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/13.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 13,
+    "name": "GRID",
+    "url": "https://grid.md/",
+    "domain": "grid.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/14.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 14,
+    "name": "Enerfluid",
+    "url": "https://www.enerfluidsnc.com/",
+    "domain": "enerfluidsnc.com",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/15.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website industrial B2B în engleză, cu un catalog de componente și resurse tehnice.",
+      "en": "English-language industrial B2B website with a component catalogue and technical resources.",
+      "ru": "Промышленный B2B-сайт на английском с каталогом компонентов и техническими материалами."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Zgura Agro",
+    "url": "https://zgura-agro.md/",
+    "domain": "zgura-agro.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/16.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 16,
+    "name": "Plan B Agency",
+    "url": "https://planbagency.md/",
+    "domain": "planbagency.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/17.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 17,
+    "name": "Lux Garden",
+    "url": "https://luxgarden.md/",
+    "domain": "luxgarden.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/18.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 18,
+    "name": "CXECO",
+    "url": "https://cxeco.group/",
+    "domain": "cxeco.group",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 19,
+    "name": "Symmetria",
+    "url": "https://www.symmetria.md/",
+    "domain": "symmetria.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/20.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 20,
+    "name": "MODI",
+    "url": "http://modi.md/",
+    "domain": "modi.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/21.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 21,
+    "name": "ZXO Wines",
+    "url": "https://zxowines.com/",
+    "domain": "zxowines.com",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/22.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Pagină de brand cu o direcție vizuală expresivă și prezentarea gamei de produse.",
+      "en": "Brand website with an expressive visual direction and a product range presentation.",
+      "ru": "Брендовый сайт с выразительным визуальным стилем и презентацией линейки продуктов."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Adalin",
+    "url": "https://adalin.md/",
+    "domain": "adalin.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 23,
+    "name": "Keratime",
+    "url": "https://keratime.md/",
+    "domain": "keratime.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/24.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 24,
+    "name": "Hamal Robot",
+    "url": "https://hamalrobot.md/",
+    "domain": "hamalrobot.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/25.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 25,
+    "name": "Kelpak Moldova",
+    "url": "https://kelpak.md/",
+    "domain": "kelpak.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/26.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 26,
+    "name": "Blysso Webinar",
+    "url": "https://webinar.blysso.ro/",
+    "domain": "webinar.blysso.ro",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 27,
+    "name": "Progalion",
+    "url": "https://progalion.md/",
+    "domain": "progalion.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/28.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 28,
+    "name": "Amo Casa",
+    "url": "https://amo-casa.it/",
+    "domain": "amo-casa.it",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/29.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 29,
+    "name": "AGXEL — site public",
+    "url": "https://agxel.global/",
+    "domain": "agxel.global",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/30.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 30,
+    "name": "Secret Point",
+    "url": "https://secretpoint.ro/",
+    "domain": "secretpoint.ro",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 31,
+    "name": "Universal Shop",
+    "url": "https://universalshop.md/",
+    "domain": "universalshop.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/32.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 32,
+    "name": "Dormibene",
+    "url": "https://www.dormibene.md/",
+    "domain": "dormibene.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/33.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 33,
+    "name": "TimeSquare Cambodia",
+    "url": "https://timesquare-cambodia.ru/",
+    "domain": "timesquare-cambodia.ru",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/34.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 34,
+    "name": "ADAM",
+    "url": "http://www.adam.md/",
+    "domain": "adam.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/35.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 35,
+    "name": "Acoperiș Regal",
+    "url": "https://acoperisregal.md/",
+    "domain": "acoperisregal.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/36.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 36,
+    "name": "Casa Gospodarului",
+    "url": "https://casagospodarului.md/",
+    "domain": "casagospodarului.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 37,
+    "name": "Consiliul Raional Anenii Noi",
+    "url": "https://anenii-noi.md/",
+    "domain": "anenii-noi.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/38.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Portal instituțional cu secțiuni pentru informații publice, documente, știri și comunitate.",
+      "en": "Institutional portal with public information, documents, news and community sections.",
+      "ru": "Институциональный портал с публичной информацией, документами, новостями и разделами для сообщества."
+    }
+  },
+  {
+    "id": 38,
+    "name": "GB Climat",
+    "url": "https://gbclimat.md/",
+    "domain": "gbclimat.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/39.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 39,
+    "name": "Horizon Construct",
+    "url": "https://horizonconstruct.md/",
+    "domain": "horizonconstruct.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/40.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 40,
+    "name": "Panadero — voucher",
+    "url": "https://panadero.md/voucher/",
+    "domain": "panadero.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/41.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 41,
+    "name": "Restaurant Noroc",
+    "url": "https://restaurantebalti.md/noroc/",
+    "domain": "restaurantebalti.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/42.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 42,
+    "name": "Neo Beauty",
+    "url": "https://neobeauty.md/",
+    "domain": "neobeauty.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 43,
+    "name": "Poienița Picilor",
+    "url": "https://www.poienitapicilor.md/",
+    "domain": "poienitapicilor.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/44.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 44,
+    "name": "MG Auto",
+    "url": "https://mgauto.md/",
+    "domain": "mgauto.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/45.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 45,
+    "name": "Business Performance",
+    "url": "https://performance.md/",
+    "domain": "performance.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/46.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 46,
+    "name": "Restaurant Oscar",
+    "url": "https://restaurantebalti.md/oscar/",
+    "domain": "restaurantebalti.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/47.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 47,
+    "name": "Softy Shop",
+    "url": "https://softyshop.md/",
+    "domain": "softyshop.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": null,
+    "description": {}
+  },
+  {
+    "id": 48,
+    "name": "Elena Terapeut",
+    "url": "https://elenaterapeut.com/",
+    "domain": "elenaterapeut.com",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/49.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 49,
+    "name": "Henvex",
+    "url": "https://henvex.md/",
+    "domain": "henvex.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/50.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 50,
+    "name": "GSS Securitate",
+    "url": "https://gss.md/",
+    "domain": "gss.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/51.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 51,
+    "name": "Geamgiu Grup",
+    "url": "https://geamgiugrup.md/",
+    "domain": "geamgiugrup.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/52.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 52,
+    "name": "Yennissi",
+    "url": "https://yennissi.md/",
+    "domain": "yennissi.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/53.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 53,
+    "name": "Restaurant Imperial",
+    "url": "https://restaurantebalti.md/imperial/",
+    "domain": "restaurantebalti.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/54.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 54,
+    "name": "Hey Roger Smith — curs",
+    "url": "https://curs.heyrogersmith.com/",
+    "domain": "curs.heyrogersmith.com",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/55.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 55,
+    "name": "VinOpera",
+    "url": "https://vinopera.md/",
+    "domain": "vinopera.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/56.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 56,
+    "name": "CUB GAZ Grup",
+    "url": "https://gaz.md/",
+    "domain": "gaz.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/57.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 57,
+    "name": "Prestigiu TUR",
+    "url": "https://prestigiutur.md/",
+    "domain": "prestigiutur.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/58.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 58,
+    "name": "Plasa Rabița",
+    "url": "https://plasarabita.md/",
+    "domain": "plasarabita.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/59.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 59,
+    "name": "OneStone",
+    "url": "https://onestone.md/",
+    "domain": "onestone.md",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": null,
+    "description": {
+      "ro": "Proiect WordPress. Pagina publică este momentan în mentenanță; captura proiectului original rămâne de adăugat.",
+      "en": "WordPress project. The public page is currently under maintenance; a screenshot of the original project is still to be added.",
+      "ru": "Проект на WordPress. Публичная страница сейчас на обслуживании; скриншот исходного проекта ещё нужно добавить."
+    }
+  },
+  {
+    "id": 60,
+    "name": "Vinador",
+    "url": "https://vinador.md/",
+    "domain": "vinador.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/61.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 61,
+    "name": "GDR",
+    "url": "https://gdr.md/",
+    "domain": "gdr.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/62.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 62,
+    "name": "Cucine Lube",
+    "url": "https://cucinelube.md/",
+    "domain": "cucinelube.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/63.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 63,
+    "name": "Wijnwals",
+    "url": "https://wijnwals.be/",
+    "domain": "wijnwals.be",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/64.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Magazin online de vinuri pentru piața belgiană, cu prezentarea produselor și conținut editorial.",
+      "en": "Online wine store for the Belgian market, with product presentations and editorial content.",
+      "ru": "Интернет-магазин вин для бельгийского рынка с презентацией продуктов и редакционным контентом."
+    }
+  },
+  {
+    "id": 64,
+    "name": "Ditrade",
+    "url": "https://ditrade.md/",
+    "domain": "ditrade.md",
+    "stack": "website",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/65.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 65,
+    "name": "Castel Mimi",
+    "url": "https://castelmimi.md/",
+    "domain": "castelmimi.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": true,
+    "image": {
+      "src": "/projects/66.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 66,
+    "name": "Mimi Hotels",
+    "url": "https://mimi-hotels.com/ro/",
+    "domain": "mimi-hotels.com",
+    "stack": "wordpress",
+    "featured": true,
+    "partial": false,
+    "image": {
+      "src": "/projects/67.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {
+      "ro": "Website pentru Mimi Hotel & Business Center: camere, evenimente, restaurant și acces la rezervări.",
+      "en": "Mimi Hotel & Business Center website: rooms, events, restaurant and access to reservations.",
+      "ru": "Сайт Mimi Hotel & Business Center: номера, мероприятия, ресторан и переход к бронированию."
+    }
+  },
+  {
+    "id": 67,
+    "name": "Prevail Infoworks",
+    "url": "https://prevailinfoworks.com/",
+    "domain": "prevailinfoworks.com",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/68.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 68,
+    "name": "sindromuldown.md",
+    "url": "https://sindromuldown.md/",
+    "domain": "sindromuldown.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/69.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  },
+  {
+    "id": 69,
+    "name": "Constantin Mimi",
+    "url": "https://constantinmimi.md/",
+    "domain": "constantinmimi.md",
+    "stack": "wordpress",
+    "featured": false,
+    "partial": false,
+    "image": {
+      "src": "/projects/70.jpg",
+      "width": 1280,
+      "height": 720
+    },
+    "description": {}
+  }
+]
