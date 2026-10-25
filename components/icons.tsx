@@ -19,3 +19,7 @@ export function LocationIcon(props: SVGProps<SVGSVGElement>) {
 export function TelegramIcon(props: SVGProps<SVGSVGElement>) {
   return <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round" aria-hidden="true" focusable="false" {...props}><path d="m21 3-4 18-6-5-4 3 1-7L21 3ZM8 12l-5-2 18-7M11 16l10-13" /></svg>;
 }
+
+export function LinkedInIcon(props: SVGProps<SVGSVGElement>) {
+  return <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" aria-hidden="true" focusable="false" {...props}><rect x="3" y="3" width="18" height="18" rx="3" /><path d="M7.5 10v7m0-10v.1M11 17v-7m0 3a3 3 0 0 1 6 0v4" /></svg>;
+}

@@ -21,6 +21,7 @@ export interface Profile {
   firstName: string;
   email: string;
   telegram: string;
+  linkedin: string;
   location: Record<Locale, string>;
   yearsExperience: string;
   totalProjects: number;
